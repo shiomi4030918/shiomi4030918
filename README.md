@@ -11,7 +11,7 @@
 ## 👋 About Me &nbsp;|&nbsp; 自己紹介
 
 ```yaml
-name: Aki Shiomi / 塩見 晃輝
+name: Aki Shiomi / 汐見　耀
 location: Japan / 日本
 university: Ritsumeikan University (Electronic & Computer Engineering, 3rd year)
            立命館大学 電子情報工学科 3回生
