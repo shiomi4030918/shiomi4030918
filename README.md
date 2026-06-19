@@ -43,7 +43,7 @@ focus:
 ---
 
 **🏢 Hitotech Inc. &mdash; Software Engineer / Project Manager**
-&nbsp;&nbsp;&nbsp;&nbsp;株式会社ヒトテク &mdash; ソフトウェアエンジニア / PM
+&nbsp;&nbsp;&nbsp;&nbsp;株式会社ヒトテック &mdash; ソフトウェアエンジニア / PM
 
 &nbsp;&nbsp;&nbsp;&nbsp;✔ Corporate website development / 企業Webサイト開発
 &nbsp;&nbsp;&nbsp;&nbsp;✔ Internal system development / 社内システム開発
@@ -55,7 +55,7 @@ focus:
 ---
 
 **🚀 Startup Internship &mdash; Project Manager**
-&nbsp;&nbsp;&nbsp;&nbsp;スタートアップインターン &mdash; プロジェクトマネージャー
+&nbsp;&nbsp;&nbsp;&nbsp;スターアップインターン &mdash; プロジェクトマネージャー
 
 &nbsp;&nbsp;&nbsp;&nbsp;✔ PM for drawing annotation functionality in a manufacturing drawing management app / 製造図面管理アプリの図面アノテーション機能のPM
 &nbsp;&nbsp;&nbsp;&nbsp;✔ Conducted customer interviews / 顧客インタビューの実施
