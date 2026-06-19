@@ -115,32 +115,18 @@ focus:
 >
 > ## 📊 GitHub Stats
 >
-> <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shiomi4030918&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiomi4030918&layout=compact&theme=tokyonight&hide_border=true" />
-    </div>
-
-    <div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=shiomi4030918&theme=tokyonight&hide_border=true" />
-      </div>
-
-      ---
-
-      ## 📫 Contact
-
-      <div align="center">
-
-      [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-      [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiomi4030918)
-
-      </div>
-
-      ---
-
-      <div align="center">
-
-      > *"Building products, solving problems, and creating value through technology."*
-
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-      </div>
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiomi4030918&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiomi4030918&layout=compact&theme=tokyonight&hide_border=true)
+>
+> ---
+>
+> ## 📫 Contact
+>
+> [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiomi4030918)
+>
+> ---
+>
+> > *"Building products, solving problems, and creating value through technology."*
+> >
+> > <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
