@@ -1,54 +1,115 @@
-# Hi there, I'm shiomi4030918 👋
+Hi, I’m Aki Shiomi 👋
 
-## 🚀 About Me
+Student Entrepreneur / Software Engineer / Project Manager
 
-フロントエンド開発者として、WebアプリケーションやモバイルアプリをTypeScript・HTML・CSSで構築しています。
-過去1年間で **533回** のコントリビューションを積み上げており、日々コードを書くことを楽しんでいます。
+I am a third-year student in the Department of Electronic and Computer Engineering at Ritsumeikan University.
 
----
+Currently, I run Bondly LLC while working as a software engineer and project manager. I develop web applications, mobile applications, AI-powered systems, and business websites for clients and internal projects.
 
-## 🛠️ Tech Stack
+⸻
 
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+🚀 Experience
 
-### Tools & Platforms
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+Bondly LLC
 
----
+Founder / Software Engineer
 
-## 📂 Projects
+* Development and operation of in-house applications
+* Website and landing page production
+* System development for clients
+* AI integration support for companies
+* Project management and client communication
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [portfolio](https://portfolio-one-pi-25.vercel.app) | 個人ポートフォリオサイト | TypeScript |
-| [saikoro](https://github.com/shiomi4030918/saikoro) | Expo (React Native) モバイルアプリ | TypeScript |
-| [Cut-House-Shiomi](https://github.com/shiomi4030918/Cut-House-Shiomi) | 美容室向けWebサイト | CSS |
-| [takagi-gyousei](https://takagi-gyousei.vercel.app) | 行政書士事務所サイト | HTML / CSS / JS |
-| [keiri_career](https://keiri-career.vercel.app) | 経理キャリア向けサイト（GAS連携） | HTML / GAS |
+Hitotech Inc.
 
----
+Software Engineer / Project Manager
 
-## 📊 GitHub Stats
+* Corporate website development
+* Internal system development
+* AI implementation support
+* Marketing support
+* Infrastructure and server management
+* Vendor management and coordination
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiomi4030918&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiomi4030918&layout=compact&theme=tokyonight&hide_border=true)
+Startup Internship
 
----
+Project Manager
 
-## 📫 Get in Touch
+* PM for drawing annotation functionality in a manufacturing drawing management application
+* Conducted customer interviews
+* Gathered requirements from end users
+* Managed project schedules and team communication
 
-- 🌐 Portfolio: [portfolio-one-pi-25.vercel.app](https://portfolio-one-pi-25.vercel.app)
-- - 🐙 GitHub: [@shiomi4030918](https://github.com/shiomi4030918)
- 
-  - ---
+⸻
 
-  ⭐ Feel free to check out my repositories and leave a star if you find something useful!
+💡 Leadership
+
+Vice President of Hashiru Alpaca
+
+Student Development Community
+
+* Led application and web development projects
+* Delivered commissioned systems and websites
+* Organized programming workshops for elementary and junior high school students
+* Collaborated with universities and local communities
+
+⸻
+
+🏆 Selected Achievements
+
+* Developed websites for projects related to Expo initiatives
+* Built AI chatbot systems using LLM APIs
+* Managed development projects for manufacturing companies
+* Developed and operated mobile applications
+* Built internal business systems and automation tools
+* Supported digital transformation and AI adoption for organizations
+
+⸻
+
+🛠 Tech Stack
+
+Frontend
+
+* React
+* Next.js
+* React Native
+* TypeScript
+* JavaScript
+* HTML
+* CSS
+* Tailwind CSS
+
+Backend
+
+* Node.js
+* Firebase
+* Supabase
+* Google Apps Script
+
+Tools
+
+* Git
+* GitHub
+* Vercel
+* Figma
+
+AI
+
+* Gemini API
+* OpenAI API
+* AI Chatbot Development
+* AI Integration Support
+
+⸻
+
+📫 Contact
+
+Portfolio:
+https://your-portfolio-url.com
+
+GitHub:
+https://github.com/shiomi4030918
+
+⸻
+
+“Building products, solving problems, and creating value through technology.”
