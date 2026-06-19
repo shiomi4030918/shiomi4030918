@@ -27,150 +27,125 @@ focus:
 
 ## 💼 Experience
 
-<table>
-  <tr>
-    <td width="50" align="center">🏢</td>td>
-    <td>
-      <strong>Bondly LLC</strong>strong> — <em>Founder / Software Engineer</em>em><br/>
-      <sub>Building and operating products from scratch</sub>sub><br/><br/>
-      ✔ Development and operation of in-house applications<br/>
-      ✔ Website and landing page production<br/>
-      ✔ System development for clients<br/>
-      ✔ AI integration support for companies<br/>
-      ✔ Project management and client communication
-    </td>td>
-  </tr>tr>
-  <tr>
-    <td width="50" align="center">🏢</td>td>
-    <td>
-      <strong>Hitotech Inc.</strong>strong> — <em>Software Engineer / Project Manager</em>em><br/><br/>
-      ✔ Corporate website development<br/>
-      ✔ Internal system development<br/>
-      ✔ AI implementation support<br/>
-      ✔ Marketing support<br/>
-      ✔ Infrastructure and server management<br/>
-      ✔ Vendor management and coordination
-    </td>td>
-  </tr>tr>
-  <tr>
-    <td width="50" align="center">🚀</td>td>
-    <td>
-      <strong>Startup Internship</strong>strong> — <em>Project Manager</em>em><br/><br/>
-      ✔ PM for drawing annotation functionality in a manufacturing drawing management app<br/>
-      ✔ Conducted customer interviews<br/>
-      ✔ Gathered requirements from end users<br/>
-      ✔ Managed project schedules and team communication
-    </td>td>
-  </tr>tr>
-</table>table>
+**🏢 Bondly LLC** &mdash; *Founder / Software Engineer*
 
----
-
-## 💡 Leadership
-
-<table>
-  <tr>
-    <td width="50" align="center">🦙</td>td>
-    <td>
-      <strong>Vice President</strong>strong> — <em>Hashiru Alpaca (Student Dev Community)</em>em><br/><br/>
-      ✔ Led application and web development projects<br/>
-      ✔ Delivered commissioned systems and websites<br/>
-      ✔ Organized programming workshops for elementary and junior high school students<br/>
-      ✔ Collaborated with universities and local communities
-    </td>td>
-  </tr>tr>
-</table>table>
-
----
-
-## 🏆 Selected Achievements
-
-| | Achievement |
-|:---:|---|
-| 🌏 | Developed websites for projects related to Expo initiatives |
-| 🤖 | Built AI chatbot systems using LLM APIs |
-| 🏭 | Managed development projects for manufacturing companies |
-| 📱 | Developed and operated mobile applications |
-| ⚙️ | Built internal business systems and automation tools |
-| 💡 | Supported digital transformation and AI adoption for organizations |
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-<p>
+> Building and operating products from scratch
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Development and operation of in-house applications
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Website and landing page production
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ System development for clients
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ AI integration support for companies
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Project management and client communication
+>
+> **🏢 Hitotech Inc.** &mdash; *Software Engineer / Project Manager*
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Corporate website development
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Internal system development
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ AI implementation support
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Marketing support
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Infrastructure and server management
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Vendor management and coordination
+>
+> **🚀 Startup Internship** &mdash; *Project Manager*
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ PM for drawing annotation functionality in a manufacturing drawing management app
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Conducted customer interviews
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Gathered requirements from end users
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Managed project schedules and team communication
+>
+> ---
+>
+> ## 💡 Leadership
+>
+> **🦙 Vice President** &mdash; *Hashiru Alpaca (Student Dev Community)*
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Led application and web development projects
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Delivered commissioned systems and websites
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Organized programming workshops for elementary and junior high school students
+> &nbsp;&nbsp;&nbsp;&nbsp;✔ Collaborated with universities and local communities
+>
+> ---
+>
+> ## 🏆 Selected Achievements
+>
+> | | Achievement |
+> |:---:|---|
+> | 🌏 | Developed websites for projects related to Expo initiatives |
+> | 🤖 | Built AI chatbot systems using LLM APIs |
+> | 🏭 | Managed development projects for manufacturing companies |
+> | 📱 | Developed and operated mobile applications |
+> | ⚙️ | Built internal business systems and automation tools |
+> | 💡 | Supported digital transformation and AI adoption for organizations |
+>
+> ---
+>
+> ## 🛠️ Tech Stack
+>
+> ### 🎨 Frontend
+> <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+                  </p>
 
-### ⚙️ Backend & Database
-<p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>p>
+                  ### ⚙️ Backend & Database
+                  <p>
+                    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+                      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+                        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+                          <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+                          </p>
 
-### 🔧 Tools & Platforms
-<p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>p>
+                          ### 🔧 Tools & Platforms
+                          <p>
+                            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+                              <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+                                <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+                                  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+                                  </p>
 
-### 🤖 AI / LLM
-<p>
-    <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>p>
+                                  ### 🤖 AI / LLM
+                                  <p>
+                                    <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+                                      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+                                      </p>
 
----
+                                      ---
 
-## 📊 GitHub Stats
+                                      ## 📊 GitHub Stats
 
-<div align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=shiomi4030918&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiomi4030918&layout=compact&theme=tokyonight&hide_border=true" />
-</div>div>
+                                      <div align="center">
+                                        <img height="160" src="https://github-readme-stats.vercel.app/api?username=shiomi4030918&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+                                          <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiomi4030918&layout=compact&theme=tokyonight&hide_border=true" />
+                                          </div>
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shiomi4030918&theme=tokyonight&hide_border=true" />
-</div>div>
+                                          <div align="center">
+                                            <img src="https://github-readme-streak-stats.herokuapp.com?user=shiomi4030918&theme=tokyonight&hide_border=true" />
+                                            </div>
 
----
+                                            ---
 
-## 📫 Contact
+                                            ## 📫 Contact
 
-<div align="center">
+                                            <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiomi4030918)
+                                            [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+                                            [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiomi4030918)
 
-  </div>
+                                            </div>
 
-  ---
+                                            ---
 
-  <div align="center">
+                                            <div align="center">
 
-    > *"Building products, solving problems, and creating value through technology."*
+                                            > *"Building products, solving problems, and creating value through technology."*
 
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+                                            <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-    </div>
+                                            </div>
 </p>
-</p>
-    </td>
-  </tr>
-  </tr>
-    </td>
-    </td>
-  </tr>
-</table>
